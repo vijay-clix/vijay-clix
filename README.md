@@ -12,7 +12,7 @@
 </h1>
 <b> About me:</b>
 </br>
-Hi, I'm Srishti having an experience of 3+ years in Devops,
+Hi, I'm Vijay Kr. Bhati having an experience of 3+ years in Devops,
 </br>
 </br>
 
@@ -22,7 +22,7 @@ I’m interested in designing solutions, Architect the project and provide techn
 </br>
 </br>
 <b>Tech Stack and Expertise</b></br>
-Expertise: Devops, 
+Expertise: Devops
 </br>
 </br>
 
@@ -33,8 +33,8 @@ Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.c
 </br>
 <b>Statics:</b>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Clixlogix-Anshul&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Clixlogix-Anshul&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vijay-clix&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-clix&theme=gruvbox&hide_border=true" />
 </p>
 <br>
 
